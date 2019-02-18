@@ -1,0 +1,3 @@
+0 8-17/6 * * 1-5 bash $HOME/p7.sh -f 2015 -l 2016 -e josh.call72@gmail.com -u "jCall72" >> $HOME/log/02/finalProject*.log
+
+
